@@ -1,18 +1,18 @@
 {
     "person": {
-      "name": "Madan Reddy",
-      "age": 35,
+      "name": "Urbano Neto",
+      "age": 49,
       "gender": "M",
-      "is_student": false,
+      "is_student": true,
       "hobbies": [
-        "reading",
-        "travelling",
-        "hiking"
+        "ler",
+        "estudar",
+        "jogar"
       ],
       "address": {
-        "street": "123 Main St",
-        "city": "SomeCity",
-        "postal_code": 12345
+        "street": "305 norte",
+        "city": "Palmas",
+        "postal_code": "77001-290"
       }
     }
   }

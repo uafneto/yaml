@@ -1,16 +1,16 @@
 <person>
-  <name>Madan Reddy</name>
-  <age>35</age>
+  <name>Urbano Neto</name>
+  <age>49</age>
   <gender>M</gender>
-  <is_student>false</is_student>
+  <is_student>true</is_student>
   <hobbies>
-    <hobby>reading</hobby>
-    <hobby>travelling</hobby>
-    <hobby>hiking</hobby>
+    <hobby>ler</hobby>
+    <hobby>estudar</hobby>
+    <hobby>jogar</hobby>
   </hobbies>
   <address>
-    <street>123 Main St</street>
-    <city>SomeCity</city>
-    <postal_code>12345</postal_code>
+    <street>305 norte</street>
+    <city>Palmas</city>
+    <postal_code>77001-290</postal_code>
   </address>
 </person>
